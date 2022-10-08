@@ -2,7 +2,5 @@
   <img src="./icon_128.png" />
 </p>
 
-## 下载
-
-- [微软商店](https://microsoftedge.microsoft.com/addons/detail/oidfnjkkpidjhkjfidpfijndijkgcilb)
-- [火狐商店](https://addons.mozilla.org/en-US/firefox/addon/translate-extension)
+## 极简翻译-谷歌版
+由于 https://translate.google.cn 节点关闭，此版本讲翻译源更换为 https://translate.google.com，便能继续正常使用
