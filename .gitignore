@@ -5,5 +5,3 @@ node_modules
 .vscode
 
 !firefox/*.js
-/chrome
-/chrome.zip
